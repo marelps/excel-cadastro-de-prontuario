@@ -14,8 +14,6 @@
 	✅ Planilha Concluída ✅
 </h4>
 
-##  Planilha em excel com botão macro que insere dados para cadastro de prontuários com nome, cor do prontuário e alguma observação caso seja necessário. 
-
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#como-usar">Como Usar</a> •  
