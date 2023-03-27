@@ -11,7 +11,7 @@
 
 # Spreadsheet for medical records registration in Excel Macro
 <h4 align="center"> 
-	✅ Spreadsheet Completed ✅
+	✅ Completed Spreadsheet ✅
 </h4>
 
 <p align="center">
